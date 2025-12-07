@@ -6,6 +6,8 @@ Plugin indexNow for Magix CMS 3
 
 [![release](https://img.shields.io/github/release/magix-cms/indexnow.svg)](https://github.com/magix-cms/indexnow/releases/latest)
 
+<img width="1180" height="601" alt="Image" src="https://github.com/user-attachments/assets/df702466-6596-4a75-9ccd-7b3deb7419a3" />
+
 ## Installation
  * Décompresser l'archive dans le dossier "plugins" de magix cms
  * Connectez-vous dans l'administration de votre site internet
