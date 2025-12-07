@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/e9f06f24-a09b-4d9a-a0b7-48f4bd5ca224)
-# indexnow
+# indexNow
 Plugin indexNow for Magix CMS 3
 
 Généré une clé indexNow : https://www.bing.com/indexnow/getstarted
