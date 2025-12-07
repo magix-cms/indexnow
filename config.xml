@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- /*
+ * MAGIX CMS Copyright (c) 2008 - 2018 Gerits Aurelien,
+ * http://www.magix-cms.com
+ * Dual licensed under the MIT AND GPL Version 3 licenses.
+ *
+ * Date: November 14 09:15 2018
+ */-->
+<config>
+	<authorized>
+		<allow_access>*</allow_access>
+	</authorized>
+	<data>
+		<authors>
+			<author>
+				<name>Gerits Aurelien</name>
+				<website href="https://www.magix-cms.com" />
+			</author>
+		</authors>
+		<release>
+			<date_create>06/12/2025</date_create>
+			<version>1.0</version>
+			<phase>Stable</phase>
+		</release>
+		<support>
+			<ticket href="https://github.com/magix-cms/recaptcha/issues" />
+			<git href="https://github.com/magix-cms/recaptcha" />
+		</support>
+	</data>
+</config>
